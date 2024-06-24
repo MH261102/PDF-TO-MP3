@@ -1,4 +1,4 @@
-# PDF to Speech Converter
+# PDF to MP3 Converter
 
 This project is a Python application that converts text from a PDF file to speech and saves it as an MP3 file. It utilizes the `PyPDF2` library to read the PDF file and `pyttsx3` to convert the extracted text to speech.
 
