@@ -12,9 +12,6 @@ This project is a Python application that converts text from a PDF file to speec
 ## Requirements
 
 - Python 3.x
-- `pyttsx3` library
-- `PyPDF2` library
-- `tkinter` library (usually included with Python installations)
 
 ## Installation
 
@@ -24,9 +21,9 @@ This project is a Python application that converts text from a PDF file to speec
     cd pdf-to-speech-converter
     ```
 
-2. Install the required libraries:
+2. Install the required libraries using `requirements.txt`:
     ```sh
-    pip install pyttsx3 PyPDF2
+    pip install -r requirements.txt
     ```
 
 ## Usage
